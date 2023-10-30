@@ -38,8 +38,8 @@ var name = "Melissa";
 
 a = 12;
 b = 20;
-
-// console.log(a + b);
+let result = a + b;
+// console.log(result);
 
 /* ESERCIZIO 4
  Crea una variable di nome "x" e assegna ad essa il numero 12.
